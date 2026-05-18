@@ -33,7 +33,7 @@ Frigate is an open-source Network Video Recorder (NVR) that uses AI to detect pe
 
 ### Hardware & Software Stack
 
-I'm using an old desktop PC with an NVIDIA GTX 1050 Ti as a Frigate NVR test system. The setup is used to evaluate GPU-accelerated object detection, camera stream performance, recording stability, storage usage, and Home Assistant integration before deploying to dedicated hardware.
+I'm using an old desktop PC with an NVIDIA GTX 1050 Ti as a Frigate NVR test system. The setup is used to evaluate GPU-accelerated object detection, camera stream performance, recording stability, and storage usage before deploying to dedicated hardware.
 
 | Component | Details |
 |-----------|---------|
